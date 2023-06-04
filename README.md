@@ -1,4 +1,4 @@
-# Dmoney API Automation
+# Dmoney API Automation Project
 
 ## Project Summary:
 This project has automate user API from postman using newman
